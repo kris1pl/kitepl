@@ -1,0 +1,2089 @@
+{
+  "settings": {
+    "name": "kitePl",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise 3",
+      "styling": {
+        "primaryColor": "#c0a375",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e9b9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Montserrat",
+        "subtitleFont": "Lora",
+        "textFont": "Raleway",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": false
+      }
+    },
+    "versionFirst": "3.10.7",
+    "uniqCompNum": 107,
+    "versionPublish": "3.11.1",
+    "mcShopcart": {
+      "email": "kris1@kdk.com.pl"
+    },
+    "path": "@PROJECT_PATH@",
+    "favicon": "@PROJECT_PATH@/assets/images/favicona-k-128x128.png",
+    "noImageResize": "",
+    "google-analytics": "<script>\r\n  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){\r\n  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),\r\n  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)\r\n  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');\r\n\r\n  ga('create', 'UA-91180307-3', 'auto');\r\n  ga('send', 'pageview');\r\n\r\n</script>",
+    "cookiesAlert": "Korzystanie z witryny kitewataha.com oznacza zgodę na wykorzystywanie plików cookies, z których niektóre mogą być już zapisane w folderze przeglądarki. Więcej na <a href='privacy.html'>polityka prywatności</a>.",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Kursy kitesurfingu w Międzyzdrojach",
+        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing lessons in Międzyzdroje\">\n<meta property=\"og:url\" content=\"http://www.letsgokitesurfing.eu\">\n<meta property=\"og:image\" content=\"http://www.letsgokitesurfing.eu/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media (min-width:768px){\n /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/\n  .nav-item.nav-btn {\n    left: 5vw; /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */\n    position: relative;\n}\n}\n.nav-dropdown .btn {\n    padding: 0.5em 0; /* adjust vertical distance between flags in mobile menu with the first number */\n    background-color:rgba(0,0,0,0);/* removing background and border */\n    border:none;\n}",
+          "_anchor": "menu-2",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wataha-logo-na-www-502x128.png",
+              "height": 128,
+              "alt": "KiteWataha",
+              "link": "#top",
+              "title": "KiteWataha",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">.com</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures3-7\">KURSY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box2-t\">OFERTA SPECJALNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-2n\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-c\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-r\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.letsgokitesurfing.eu\">POBIERZ</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extSlider1",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/gopr0388-0003-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br>Kursy kitesurfingu<br>w Międzyzdrojach",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures7-18\" data-toolbar=\"-mbrBtnMove\">Gotowy ?</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc03104-2000x1364-4.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br>Kursy kitesurfingu<div>w Międzyzdrojach</div>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures7-18\" data-toolbar=\"-mbrBtnMove\">Gotowy ?</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483083850282-fc55aec90f56-2000x1428.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<span style=\"font-size: 4.39rem; line-height: 1.1;\"><br></span><br><span style=\"font-size: 4.39rem; line-height: 1.1;\">Kursy kitesurfingu</span><br><div>w Międzyzdrojach</div>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures7-18\" data-toolbar=\"-mbrBtnMove\">Gotowy ?</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "extSlider1-4",
+          "articleLayout": false
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px",
+              "text-align": "center"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "21px"
+            }
+          },
+          "_anchor": "extFeatures7-18",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false
+          },
+          "title": "SMAK WOLNOŚCI, RADOŚĆ, PASJA, <br>WYZWANIE 2 ŻYWIOŁÓW, &nbsp;<br>ZASTRZYK ADRENALINY I NIEZŁA DAWKA DOPAMINY &nbsp;!",
+          "subtitle": "To właśnie jest kitesurfing ! <br>Jeśli jesteś w Międzyzdrojach lub planujesz tu przyjechać to może być to idealny moment na rozpoczęcie Twojej przygody z kitesurfingiem.",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Kiesurfing jump",
+              "title": "Kitesurfing jump",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Będziesz w dobrych rękach",
+          "subtitle1": "",
+          "caption1": "Ponad 10 lat doświadczenia w kitesurfingu. <br>Licencjonowany instruktor Międzynarodowej Organizacji Kitesurfingu - IKO.<br>Szkolenia zgodne ze standartami Międzynarodowej Organizacji Kitesurfingu.<br>Maksymalnie 2 osoby w grupie szkoleniowej .<br> ",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iko-card-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "IKO's card",
+              "title": "Certificate of International Kitesurfing Organization",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<span style=\"line-height: 25.65px;\">Certyfikat IKO</span><br>",
+          "subtitle2": "",
+          "caption2": "Po ukończeniu pełnego kursu otrzymasz certyfikat &nbsp;IKO potwierdzajacy zdobyte umiejętności. <br>Certyfikat IKO jest rozpoznawany i akceprtowany na całym świecie.<br>Naprawdę warto ten certyfikat posiadać jeśli zamierzasz kontynuować swoją przygodę z kitesurfingiem na zorganizowanych spotach na całym świecie.",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gopr0531-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Kitesurfing spot",
+              "title": "Kitesurfing training spot Świnoujście",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Miejscówki szkoleniowe",
+          "subtitle3": "",
+          "caption3": "Szkolenia odbywają się głównie na płytkich wodach Zalewu Szczecińskiego.<br>Zapewniamy sprzęt zabezpieczający i asekuracyjny.<br>Zapewniamy transport pomiędzy Międzyzdrojami a mijescówkami szkoleniowymi (dotyczy miejscowości Wolin oraz Świnoujście Karsibór).<br>Sezon szkoleniowy trwa od początku maja do końca października.<br>",
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2m",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "bgColor": "#303030",
+            "showMeta": true
+          },
+          "title": "Sezon rozpoczyna się 01.05.2017",
+          "meta": ""
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-19",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Pamiętaj aby zawsze potwierdzić telefonicznie dostępność kursu oraz warunki pogodowe.",
+          "meta": "+48 601 830 188"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures3",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "@primaryColor !important"
+            },
+            ".wraper": {
+              "border-color": "@primaryColor !important"
+            },
+            "P": {
+              "text-align": "left",
+              "font-size": "15px"
+            },
+            "SPAN": {
+              "font-size": "15px"
+            }
+          },
+          "_anchor": "extFeatures3-7",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00970-2000x1331.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title1": "Lekcja Intro&nbsp;",
+          "subtitle1": "zapoznanie się ze sprzętem do kitesurfingu, ocena warunków pogodowych",
+          "caption1": "Lekcja Intro jest cząścią kursu - poziom 1 i jest przeznaczona dla osób które nie są jeszcze pewne czy kitesurfing to sport dla nich, i chciałyby zrobić wstępne rozpoznanie. Lekcja trwa około 2 godzin i pozwala na zapoznanie się ze sprzętem, zasadami bezpieczeństwa oraz zasadami oceny warunków pogodowych. <br>W czasie lekcji będziesz miał możliwość zrobić pierwszą ocenę warunków pogodowych oraz stanu wody. Po raz pierwszy przygotujesz sprzęt do pływania oraz będziesz miał możliwość sterowania latawcem treningowym.<br><br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title2": "Kurs - poziom 1",
+          "subtitle2": "odkryj jak ujarzmić siłę wiatru",
+          "caption2": "- ocena warunków terenowych<br>- ocena warunków wiatrowych<br>- ocena akwenu<br>- teoria okna wiatrowego<br>- przygotowanie latawca treningowego<br>- sterowanie latawcem treningowym<br>- zapoznanie się ze sprzętem kitesurfingowym<br>- przygotowanie sprzetu do pływania<br>- systemy bezpieczeństwa<br>- kontrola sprzętu i systemów bezpieczeństwa<br>- system sygnałów komunikacyjnych<br>- startowanie i lądowania latawca do asystenta i jako asystent<br>- sterowanie latwcem wpiętym do trapezu<br>&nbsp;- omówienie systemów bezpieczeństwa i systemu de-power<br>&nbsp;- sterowanie latawcem i użycie systemu de-power w trakcie sterowania<br>- samodzielne lądowanie latawca<br>- samodzielne odzyskanie sprzętu po wylądowaniu latawca",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title3": "Kurs - poziom 2",
+          "subtitle3": "zaczynasz pływać !",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">- samodzielne wejście do i wyjście z wody z &nbsp;latawcem</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- restarty latawca z wody</span><br>- kontolowanie latawca w oknie wiatrowym<br><span style=\"font-size: 1rem; line-height: 1.5;\">- b</span>ody-dragi pod wiatr z deską<br>- body-dragi z i pod wiatr, zmiana kierunku i odzyskiwanie zgubionej deski<br><span style=\"font-size: 1rem; line-height: 1.5;\">- akcja samo-ratowania na głębokiej wodzie, złożenie sprzętu i powrót do brzegu</span><br>- generowanie mocy latawcem<br>- start z wody - teoria i zasady bezpieczeństwa<br>- &nbsp;założenie deski i utrzrymanie latawca gotoweog do startu z wody<br><span style=\"font-size: 1rem; line-height: 1.5;\">- start z wody i zatrzymanie</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- prognoza pogody, pływy i zjawiska wiatrowe</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- &nbsp;ocena siły, kierunku i jakości wiatr</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- prawo drogi</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- dobór sprzętu i ustawień w zależności od warunków pogodowych</span><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title4": "Kurs - poziom 3",
+          "subtitle4": "pływasz samodzielnie i zaczynasz pierwsze skoki !",
+          "caption4": "- kontrola prędkości pływania <br>- krawędziowanie deską<br>- &nbsp;toeside edging<br>- &nbsp;pływanie w obu kierunkach<br>- ostrzenie<br>- &nbsp;pływanie wśród innych użytkowników wody - prawo drogi&nbsp;<br>- zwrot i zmiana kierunku &nbsp;bez zatrzymania<br>- make a toe side turn<br>- &nbsp;ocena ryzyk i świadomość zagrożeń na akwenie treningowym<br>- &nbsp;samodzielne startowanie latawca<br>- skoki - teoria i zasady bezpieczeństwa<br>- podstawowy skok i lądowanie",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box2",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "extMsg-box2-t",
+          "_params": {
+            "animText1": "OFERTA SPECJALNA",
+            "animText2": "lekcja Intro",
+            "animText3": " tylko 160 PLN",
+            "typeSpeed": 60,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box2_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "&nbsp;",
+          "text": "Lekcja Intro jest cząścią kursu - poziom 1 i jest przeznaczona dla osób które nie są jeszcze pewne czy kitesurfing to sport dla nich a chciałyby zrobić wstępne rozpoznanie. Lekcja trwa około 2 godzin i pozwala na zapoznanie się ze sprzętem, zasadami bezpieczeństwa oraz zasadami oceny warunków pogodowych. W czasie lekcji będziesz miał możliwość zrobić pierwszą ocenę warunków pogodowych oraz stanu wody. Po raz pierwszy przygotujesz sprzęt do pływania oraz będziesz miał możliwość sterowania latawcem treningowym.<br>W większości przypadków lekcje bedą odbywać się na plaży w Międzyzdrojach chciaż w głównym sezonie, ze względu na dużą ilość plażowiczów, będziemy musieli oddalić się od centrum Międzyzdrojów.<br>Maksymalnie 2 osoby w grupie szkoleniowej oraz zrelaksowana atmosfera lekcji pozwolą Ci na bezstresowe zapoznanie się z kitesurfingiem.&nbsp;<br>Jeśli zdecydujesz się na kontynuowanie kursu to koszt lekcji Intro zostanie potrącony od ostatecznej ceny kursu.<br>Płatności za lekcję Intro można dokonać za pośrednictwem systmu PayPal. W razie odwołania lekcji z powodu warunków pogodowych lub braku wiatru, zwrot wpłaty nastąpi bezpośrednio na twoje konto PayPal.<br>Pamiętaj aby zawsze potwierdzić telefonicznie dostępność kursu oraz warunki pogodowe.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=160&amp;item_name=Intro+lesson&amp;currency_code=PLN\" data-toolbar=\"-mbrBtnMove\">KUP TERAZ - PayPal</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-2n",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "",
+            "thirdType": "bg-primary",
+            "fourthType": ""
+          },
+          "title": "CENNIK",
+          "subtitle": "Podane ceny są cenami za 1 osobę.",
+          "label1": "HOT!",
+          "title1": "Lekcja Intro",
+          "subtitle1": "Maksimum 2 osoby na lekcję",
+          "currency1": "zł",
+          "price1": "200",
+          "period1": "/ 2 h.",
+          "description1": "Wprowadzenie do kitesurfingu",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">2 godz.</span><br><li class=\"list-group-item\">1 sesja</li><li class=\"list-group-item\">Latawiec, deska, trapez, pianka, hełm oraz kamizelka asekuracyjna w cenie</li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "Kurs 1 z 3",
+          "subtitle2": "Maksimum 2 osoby na kurs",
+          "currency2": "zł",
+          "price2": "500",
+          "period2": "/ 5 h.",
+          "description2": "Cena za pojedyńczy kurs.",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">5 godz.</li><li class=\"list-group-item\">2 sesje</li><li class=\"list-group-item\">Latawiec, deska, trapez, pianka, hełm oraz kamizelka asekuracyjna w cenie</li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "Komplet  3 kursów",
+          "subtitle3": "Maksimum 2 osoby na kurs",
+          "currency3": "zł",
+          "price3": "1300",
+          "period3": "/ 15 h.",
+          "description3": "Cena za pakiet 3 kursów.",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">15 godz.</li><li class=\"list-group-item\">6 sesji</li><li class=\"list-group-item\">Latawiec, deska, trapez, pianka, hełm oraz kamizelka asekuracyjna w cenie</li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "Lekcja Indywidualna",
+          "subtitle4": "1 osoba na kurs",
+          "currency4": "zł",
+          "price4": "160",
+          "period4": "/ 1 h.",
+          "description4": "Szkolenie jeden na jeden.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 godz.</li><li class=\"list-group-item\">Jedna sesja minimum 2 godz.</li><li class=\"list-group-item\">Latawiec, deska, trapez, pianka, hełm oraz kamizelka asekuracyjna w cenie</li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_styles": {
+            ".intro-box h4": {
+              "font-size": "19px"
+            }
+          },
+          "_anchor": "extForm3-c",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "googleMap": {
+              "address": "Międzyzdroje",
+              "placeId": "ChIJIYPfQYWKqkcRmutfBT-ypSk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-white btn-white-outline\">Gotowy ?</a>"
+          },
+          "title": "KONTAKT",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "Gotowy na kitesurfing ?",
+          "subTitle1": "Zadzwoń lub wyslij maila.",
+          "text1": "Tel. kom. Krzysztof: +48 601 830 188<br> Email: kris@kitewataha.com",
+          "form": {
+            "action": "kris@letsgokitesurfing.eu",
+            "alerts": {
+              "success": "Dziękuję za wiadomość!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Imię*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Telefon*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Wiadomość"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">WYŚLIJ WIADOMOŚĆ</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-r",
+          "_params": {
+            "collapseAll": false,
+            "tabs": "5",
+            "paddingTop": "3",
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true
+          },
+          "title": "CZĘSTO ZADAWANE PYTANIA",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseOneextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Czy są jakieś wymagania wstępne przed rozpoczęciem szkolenia ?</a>",
+          "text1": "<p>Powinieneś być zdrowy, bez fizycznych ograniczeń oraz powinieneś umieć pływać. Przed rozpoczęciem kursu jest również wymagane abyś zapoznał się z warunkami prowadzenia kursu oraz potwierdził to swoim podpisem. Dokument można pobrać w sekcji \"pobierz\" lub otrzymać przed rozpoczeciem kursu.</p>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseTwoextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Czy mogę zacząć szkolenie od razu, od wyższego poziomu ?</a>",
+          "text2": "<p>Nie nie możesz. Aby uczestniczyć w kursie poziom - 2 należy najpier ukończyć kurs poziom - 1. Z kolei aby uczestniczyć w kursie poziom - 3 należy ukończyć kurs poziom - 2.&nbsp;</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseThreeextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Czy mogę zacząć szkolenie jeśli mam mniej niż 18 lat?</a>",
+          "text3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Jeżeli masz mniej niż 18 lat to powinieneś dostarczyć zgodę rodziców lub opiekunów którą można pobrać w zakładce \"Pobierz\", lub zgoda ta może być podpisana bezpośrtednio przed rozpoczęciem kursu. Uprawianie kitesurfingu nie wymaga ukończenia wyznaczonej granicy wiekowej lecz ze wzgledów bezpieczeństwa &nbsp;zelecane jest aby waga osoby szkolonej była powyżej 40 kg.</span></p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseFourextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Co powinienem zabrać ze sobą &nbsp;?</a>",
+          "text4": "<p>Jako, że szkolenia będą odbywać się poza centrum Międzyzdrojów ( około 30 min. jazdy samochodem ) to dobrze jest zabrać ze sobą:</p><p>- kurtkę przeciwdeszczową i chroniącą przed wiatrem</p>- czapkę<br>- ręcznik<br>- butelka wody i kanapki na pewno nie zaszkodzą<br>- w słoneczne dni okulary przeciwsłoneczne i krem ochronny na twarz<br><p><br></p>",
+          "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseFiveextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Co będzie gdy zapłacę za kurs a z powodu warunków pogodowych zostanie on odwołany ?</a>",
+          "text5": "<p>Jeżeli, z podowu warunków pogodowych lub braku wiatru kurs zostanie odwołany to otrzymasz zwrot kwoty za odwołaną część kursu.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        }
+      ]
+    },
+    "page1.html": {
+      "settings": {
+        "title": "Kitesurfing lessons in Międzyzdroje",
+        "meta_descr": "kitesurfing instructor in Miedzyzdroje, Misdroy, Polen, kiteboarding lessons in English",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing lessons in Międzyzdroje\">\n<meta property=\"og:url\" content=\"http://www.letsgokitesurfing.eu\">\n<meta property=\"og:image\" content=\"http://www.letsgokitesurfing.eu/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media (min-width:768px){\n /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/\n  .nav-item.nav-btn {\n    left: 5vw; /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */\n    position: relative;\n}\n}\n.nav-dropdown .btn {\n    padding: 0.5em 0; /* adjust vertical distance between flags in mobile menu with the first number */\n    background-color:rgba(0,0,0,0);/* removing background and border */\n    border:none;\n}",
+          "_anchor": "menu-2b",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/pl-186x128.png",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">.com</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures3-7\">KURSY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box2-t\">OFERTA SPECJALNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-2n\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-c\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-r\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.letsgokitesurfing.eu\">POBIERZ</a></li>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extSlider1",
+          "_params": {
+            "autoplay": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "timeout": 5,
+            "slides": [
+              {
+                "active": true,
+                "image": "@PROJECT_PATH@/assets/images/gopr0388-0003-2000x1125.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br>Kursy kitesurfingu<br>w Międzyzdrojach",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures7-18\" data-toolbar=\"-mbrBtnMove\">Gotowy ?</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/dsc03104-2000x1364-4.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br>Let's go  kitesurfing<div>in Międzyzdroje</div>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures7-18\" data-toolbar=\"-mbrBtnMove\">Ready ?</a>"
+              },
+              {
+                "active": false,
+                "image": "@PROJECT_PATH@/assets/images/full-unsplash-photo-1483083850282-fc55aec90f56-2000x1428.jpg",
+                "playVideo": false,
+                "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
+                "overlay": true,
+                "overlayOpacity": "0.3",
+                "contentAlign": "right",
+                "showTitle": true,
+                "title": "<br>Let's go kitesurfing<div>in Międzyzdroje</div>",
+                "showText": false,
+                "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
+                "showButtons": true,
+                "buttons": " <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"index.html#extFeatures7-18\" data-toolbar=\"-mbrBtnMove\">Ready ?</a>"
+              }
+            ],
+            "fullScreen": true,
+            "bgColor": "#fff",
+            "showBullets": true
+          },
+          "_anchor": "extSlider1-2c",
+          "articleLayout": false
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures7",
+          "_styles": {
+            ".mbr-section-title": {
+              "font-size": "36px"
+            },
+            "P": {
+              "font-size": "18px"
+            },
+            ".mbr-section-subtitle": {
+              "font-size": "21px"
+            }
+          },
+          "_anchor": "extFeatures7-2d",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": "1",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/jumbotron.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "columns": 3,
+            "showImages": true,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showIcons": false
+          },
+          "title": "IF YOU HAVE EVER DREAMED OF ENJOYING FREEDOM&nbsp;<div>AND ADRENALINE THRILL</div>",
+          "subtitle": "then kitesurfing is a sport that will provide all of that to you. If you are in Międzyzdroje or planning to come here, it may just be a perfect time to start your great kitesurfing adventure.",
+          "media1": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Kiesurfing jump",
+              "title": "Kitesurfing jump",
+              "linkInNewWindow": false
+            }
+          },
+          "title1": "Będziesz w dobrych rękach",
+          "subtitle1": "",
+          "caption1": "Ponad 10 letnie doświadczenie w kitesurfingu. <br>Licencjonowany instruktor Międzynarodowej Organizacji Kitesurfingu ( IKO ).<br>Lekcje prowadzone w języku polskim i angielskim.<br>Maksymalnie 2 osoby / kurs.<br> ",
+          "media1_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media1_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/iko-card-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "IKO's card",
+              "title": "Certificate of International Kitesurfing Organization",
+              "linkInNewWindow": false
+            }
+          },
+          "title2": "<span style=\"line-height: 25.65px;\">Certyfikat IKO</span><br>",
+          "subtitle2": "",
+          "caption2": "Upon completion of full course you will receive IKO's certificate confirming achieved  kitesurfer's level. IKO's certificate is well recognized worldwide and handy to have if you want to practice kitesurfing on organized spots or rent an equipment.",
+          "media2_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media2_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/gopr0531-600x400.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true,
+              "link": "",
+              "alt": "Kitesurfing spot",
+              "title": "Kitesurfing training spot Świnoujście",
+              "linkInNewWindow": false
+            }
+          },
+          "title3": "Spoty szkoleniowe",
+          "subtitle3": "",
+          "caption3": "You should not be worried of water conditions as lessons are carried mainly on shallow waters of Szczecin lagoon and all the students are equipped with protection and safety equipment. Transport between Międzyzdroje and training spots is provided.<br>Our season starts at the beginning of May and ends late of October.<br>",
+          "media3_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media3_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/macbook-apple-imac-computer.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title4": "Unlimited Sites",
+          "subtitle4": "Mobirise gives you the freedom to develop",
+          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
+          "media4_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media4_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/woman-typing-writing-windows.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title5": "Trendy Website Blocks",
+          "subtitle5": "Choose from the large selection of blocks",
+          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+          "media5_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media5_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6": {
+            "image": {
+              "src": "@ADDONS_PATH@/mobirise3-blocks/components/_images/coffee-apple-iphone-laptop.jpg",
+              "class": "card-img-top",
+              "width": 600,
+              "active": true
+            }
+          },
+          "title6": "Host Anywhere",
+          "subtitle6": "Don't limit yourself to just one platform",
+          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
+          "media6_1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "dribbble",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "lastfm",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "skype",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          },
+          "media6_4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-extFeatures7",
+              "name": "linkedin",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#000",
+              "family": "socicon"
+            }
+          }
+        },
+        {
+          "_styles": {
+            ".mbr-section-title, .mbr-section-subtitle": {
+              "text-align": "center"
+            },
+            "H3": {
+              "font-size": "30px"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "header3",
+          "_anchor": "header3-2e",
+          "_params": {
+            "paddingTop": "0",
+            "paddingBottom": "3",
+            "bgColor": "#fff",
+            "showMeta": true
+          },
+          "title": "Always phone first to confirm weather conditions and course  availability.",
+          "meta": "+48 601 830 188"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFeatures3",
+          "_styles": {
+            ".mbr-iconfont-features4": {
+              "color": "@primaryColor !important"
+            },
+            ".wraper": {
+              "border-color": "@primaryColor !important"
+            },
+            "P": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "extFeatures3-2f",
+          "_params": {
+            "iconsBgColor": "@primaryColor",
+            "paddingTop": "1",
+            "paddingBottom": 3,
+            "bgImageRadio": true,
+            "parallax": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/dsc00970-2000x1331.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": false,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.8,
+            "overlayColor": "#222",
+            "columns": "4",
+            "showImages": false,
+            "showTitles": true,
+            "showSubtitles": true,
+            "ShowTexts": true,
+            "showButtons": false
+          },
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "phone",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title1": "Intro lesson",
+          "subtitle1": "get the basic feel about the equipment, water and weather conditions",
+          "caption1": "Introductory lesson is part of the Discovery course and you could take it just to have the first feeling about kitesurfing. <br>It takes about 2 hours and the main purpose is to let you get familiar with the equipment, safety precautions, weather and water conditions. <br>You will do the first weather and water assessment + first equipment assembly and flying the trainer kite . No onwater lessons yet.<br>In most cases it will take place on main Międzyzdroje beach, but during the main season, due to the amount of sunbathers, we will move away from the center of Międzyzdroje.<br>We will do it in easy and relaxed way, with no more then 2 students per lesson, so you can enjoy it and ask as many questions as necessary.&nbsp;<br>If you decide to continue with the course then cost of the Intro lesson will be deducted from your final bill.<br><br>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media2": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "edit",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title2": "Discovery course",
+          "subtitle2": "discover how to \"master the wind power\"",
+          "caption2": "- site assessment<br>-wind and sea assessment<br>- introduction to wind window<br>- setting up the trainer kite<br>-flying the trainer kite<br>- introduction of the kite, bar with lines, harness and board<br>- equipment set-up<br>-pre and in flight check of the equipment and settings<br>- introduction to safety systems, pull quick release and activate kite leash<br>- international communication signals<br>- launch and land the kite to and as an assistant<br>- control the kite hooked into the harness<br>&nbsp;- understand the de-power system and use the safty systems<br>&nbsp;- flying the kite &nbsp;and control of the de-power systems in flight<br>- self-land<br>-recover the bar and kite",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media3": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "briefcase",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title3": "Intermediate course",
+          "subtitle3": "learn to harness the power of your kite in water !",
+          "caption3": "<span style=\"font-size: 1rem; line-height: 1.5;\">- enter and exit the water independently and safely while controlling the kite</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- w</span>ater re-launch the kite<br>- maintain correct kite position in the wind window<br><span style=\"font-size: 1rem; line-height: 1.5;\">- b</span>ody drag downwind, change directions, &nbsp;up wind to recover the board and up wind holding the board<br><span style=\"font-size: 1rem; line-height: 1.5;\">- s</span>elf- rescue and full pack-down in deep water<br>-&nbsp;power stroke for a water start<br>-&nbsp;safety rules and theory for water start<br>-&nbsp; put the board on the feet and maintain the correct position for water start<br><span style=\"font-size: 1rem; line-height: 1.5;\">- water start and controlled stop</span><br><span style=\"font-size: 1rem; line-height: 1.5;\">- u</span>nderstand weather forecast, tidal- and wind effects<br><span style=\"font-size: 1rem; line-height: 1.5;\">- &nbsp;d</span>etermine the wind strength, direction and quality<br><span style=\"font-size: 1rem; line-height: 1.5;\">- k</span>now the right of way rules<br><span style=\"font-size: 1rem; line-height: 1.5;\">- k</span>now equipment set up and choice according to the weather conditions<span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br><span style=\"font-size: 1rem; line-height: 1.5;\"><br></span><br>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
+          "media4": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont mbr-iconfont-features4",
+              "name": "linegraph",
+              "link": "https://mobirise.com",
+              "size": 0,
+              "color": "#c39f76",
+              "family": "et-line"
+            }
+          },
+          "title4": "Independent course",
+          "subtitle4": "ride independently and learn a few tricks like the first jump !",
+          "caption4": "- control the riding speed by edging<br>- &nbsp;toeside edging<br>- &nbsp;consistent riding in all directions including upwind<br>- &nbsp;ride amongst other riders and water users and respect the right of way rules\n<br>- change of direction without stopping<br>- make a toe side turn<br>- &nbsp;risk assessment and awareness of the riding area<br>- &nbsp;self-launch<br>- theory and the safety rules for jumping<br>- land a basic jump",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extMsg-box2",
+          "_styles": {
+            "P": {
+              "font-size": "20px"
+            }
+          },
+          "_anchor": "extMsg-box2-2g",
+          "_params": {
+            "animText1": "SPECIAL OFFER",
+            "animText2": "Intro lesson",
+            "animText3": " only 40 EUR",
+            "typeSpeed": 60,
+            "paddingTop": "2",
+            "paddingBottom": "2",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extMsg-box2_bg.jpg",
+            "bgColor": "#ffffff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true
+          },
+          "title": "&nbsp;",
+          "text": "Introductory lesson is part of the Discovery course and you could take it just to have the first feeling about kitesurfing. It takes about 2 hours and the main purpose is to let you get familiar with the equipment, safety precautions, weather and water conditions. You will do the first weather and water assessment + first equipment assembly and flying the trainer kite.&nbsp;<br>In most cases it will take place on main Międzyzdroje beach, but during the main season, due to the amount of&nbsp;sunbathers, we will move away from the center of Międzyzdroje.<br>We will do it in easy and relaxed way, with no more then 2 students per lesson, so you can enjoy it and ask as many questions as necessary.<br>If you decide to continue with the course then cost of the Intro lesson will be deducted from your final bill.<br>Payment will be processed by PayPal so if, due to weather conditions or no wind reason, the lesson is canceled, the money will be returned to your PayPal account.<br>Always phone first to confirm weather conditions and course  availability.<br>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://www.paypal.com/cgi-bin/webscr?cmd=_cart&amp;amount=30&amp;item_name=Intro+lesson&amp;currency_code=EUR\" data-toolbar=\"-mbrBtnMove\">BUY NOW - PayPal</a>"
+        },
+        {
+          "_styles": {
+            ".mbr-section__container .mbr-section-title": {
+              "color": "#fff"
+            },
+            ".mbr-section__container .mbr-section-subtitle": {
+              "color": "#a0a0a0"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "pricing-table1",
+          "_anchor": "pricing-table1-2h",
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#303030",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "showTitle": true,
+            "showSubtitle": true,
+            "firstType": "",
+            "showButtons": false,
+            "secondType": "",
+            "thirdType": "",
+            "fourthType": ""
+          },
+          "title": "PRICE LIST",
+          "subtitle": "All prices are in EUR currency per person. Payments in Polish Zloties will be calculated according to current exchange rate.",
+          "label1": "HOT!",
+          "title1": "Intro lesson",
+          "subtitle1": "Maximum 2 persons per lesson",
+          "currency1": "€",
+          "price1": "50",
+          "period1": "/ 2 h",
+          "description1": "Get the first feeling about kitesurfing.",
+          "list1": "<ul class=\"list-group list-group-flush\"><span style=\"font-size: 14px; line-height: 50px;\">about 2 hour</span><br><li class=\"list-group-item\">1 session</li><li class=\"list-group-item\">Kite, board, wetsuit, safety vest and helmet included</li><li class=\"list-group-item\"><br></li></ul>",
+          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label2": "HOT!",
+          "title2": "1 out of 3 courses",
+          "subtitle2": "Maximum 2 persons per course",
+          "currency2": "€",
+          "price2": "130",
+          "period2": "/ 5 h",
+          "description2": "Price for a single course.",
+          "list2": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">5 hours</li><li class=\"list-group-item\">2 sessions</li><li class=\"list-group-item\">Kite, board, wetsuit, safety vest and helmet included</li><li class=\"list-group-item\"><br></li></ul>",
+          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label3": "HOT!",
+          "title3": "All 3 courses",
+          "subtitle3": "Maximum 2 persons per course",
+          "currency3": "€",
+          "price3": "350",
+          "period3": "/ 15 h",
+          "description3": "Price for full package consisting  of 3 course.",
+          "list3": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">15 hours</li><li class=\"list-group-item\">6 sessions</li><li class=\"list-group-item\">Kite, board, wetsuit, safety vest and helmet included</li><li class=\"list-group-item\"><br></li></ul>",
+          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>",
+          "label4": "HOT!",
+          "title4": "Individual lessons",
+          "subtitle4": "1 person per course",
+          "currency4": "€",
+          "price4": "40",
+          "period4": "/ 1 h",
+          "description4": "One to one training.",
+          "list4": "<ul class=\"list-group list-group-flush\"><li class=\"list-group-item\">2 hours</li><li class=\"list-group-item\">1 session min 2 hours</li><li class=\"list-group-item\">Kite, board, wetsuit, safety vest and helmet included</li><li class=\"list-group-item\"><br></li></ul>",
+          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-white btn-white-outline\">DEMO</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extForm3",
+          "_anchor": "extForm3-2i",
+          "_params": {
+            "paddingTop": "2",
+            "paddingBottom": 1,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extForm1_bg.jpg",
+            "bgColor": "#f2f2f2",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.1,
+            "overlayColor": "#000",
+            "inverse": true,
+            "googleMap": {
+              "address": "Międzyzdroje",
+              "placeId": "ChIJIYPfQYWKqkcRmutfBT-ypSk",
+              "state": "ok",
+              "stateDetails": ""
+            },
+            "showTitle": true,
+            "showContacts": true,
+            "showIcons": true,
+            "showSubtitle": true,
+            "showText": true,
+            "showForm": true,
+            "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-lg btn-white btn-white-outline\">Gotowy ?</a>"
+          },
+          "title": "DROP A LINE",
+          "media1": {
+            "iconFont": {
+              "active": true,
+              "class": "mbr-iconfont-form1",
+              "name": "envelope",
+              "size": 0,
+              "color": "#666666",
+              "family": "et-line"
+            }
+          },
+          "title1": "Don't hesitate to contact me",
+          "subTitle1": "Ready for kitesurfing ?",
+          "text1": "Phone Kris: +48 601 830 188<br> Email: kris@letsgokitesurfing.eu",
+          "form": {
+            "action": "kris1.pl@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": true,
+                "customTitle": "Phone*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "message": {
+                "title": "Message",
+                "visible": true,
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons2": "<a data-app-btn=\"true\" type=\"submit\" class=\"btn btn-primary\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SEND MESSAGE</a>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extAccordion1",
+          "_anchor": "extAccordion1-2j",
+          "_params": {
+            "collapseAll": false,
+            "tabs": "5",
+            "paddingTop": 2,
+            "paddingBottom": 2,
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extAccordion1_bg.jpg",
+            "bgColor": "#fff",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#151515",
+            "showTitle": true
+          },
+          "title": "Frequntly Asked Questions",
+          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseOneextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>What are the pre requirements ?</a>",
+          "text1": "<p>You should be able to swim, be in good health with no physical restriction. You also need to sign the student waiver form which is available in download section so you may print and sign it in advance or do it at the beginning of the course.</p>",
+          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseTwoextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">May I start with the higher level course, without completing earlier stages ?</a>",
+          "text2": "<p>No you can not. In order to take part in Intermediate course you need to complete the Discovery course or equivalent level. In order to take part in Independent course you need to complete the Intermediate course or reach equivalent level.&nbsp;</p>",
+          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseThreeextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseThree\">And what if I am less then 18 years old?</a>",
+          "text3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">If you are less then 18 years old then you have to provide the student waiver form signed by your parents or legal guardian. The waiver form is available in download section so you may print and have it signed in advance by your parents/legal guardian.</span></p>",
+          "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseFourextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseFour\">What should I take with me ?</a>",
+          "text4": "<p>As we will be training at some distance ( about 0.5 hour drive ) from Międzyzdroje then it is strongly recommended to have the following with you:</p><p>- wind and rain protective coat</p>- head cap<br>- towel<br>- bottle of fresh water and sandwiches are always good to have<br>- in sunny days sunglasses and skin protective cream<br><p><br></p>",
+          "title5": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseFiveextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseFive\">What if I pay for the course and the lesson is canceled due to weather conditions?</a>",
+          "text5": "<p>If the lesson is canceled due to weather conditions or no wind, then you will be entitled to money return for the cancelled part of the course.</p>",
+          "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
+          "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "_inherit": "social-buttons1",
+          "_styles": {
+            ".mbr-section-title, .btn-social": {
+              "color": "#fff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons3",
+          "_anchor": "social-buttons3-2k",
+          "_params": {
+            "paddingTop": "1",
+            "paddingBottom": "2",
+            "bgImageRadio": false,
+            "parallax": true,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "bgColor": "#2e2e2e",
+            "bgColorRadio": true,
+            "overlay": false,
+            "overlayOpacity": 0.5,
+            "overlayColor": "#222",
+            "facebook": true,
+            "twitter": true,
+            "google": true,
+            "vkontakte": false,
+            "odnoklassniki": false
+          },
+          "text": "SHARE THIS PAGE!"
+        }
+      ]
+    },
+    "privacy.html": {
+      "settings": {
+        "title": "Kursy kitesurfingu w Międzyzdrojach",
+        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing lessons in Międzyzdroje\">\n<meta property=\"og:url\" content=\"http://www.letsgokitesurfing.eu\">\n<meta property=\"og:image\" content=\"http://www.letsgokitesurfing.eu/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media (min-width:768px){\n /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/\n  .nav-item.nav-btn {\n    left: 5vw; /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */\n    position: relative;\n}\n}\n.nav-dropdown .btn {\n    padding: 0.5em 0; /* adjust vertical distance between flags in mobile menu with the first number */\n    background-color:rgba(0,0,0,0);/* removing background and border */\n    border:none;\n}",
+          "_anchor": "menu-2o",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wataha-logo-na-www-502x128.png",
+              "height": 128,
+              "alt": "KiteWataha",
+              "link": "#top",
+              "title": "KiteWataha",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">.com</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures3-7\">KURSY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box2-t\">OFERTA SPECJALNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-2n\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-c\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-r\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.letsgokitesurfing.eu\">POBIERZ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-2y",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4>Polityka prywatności </h4><p>INFORMACJE OGÓLNE </p><p>Właścicielem serwisu www.kitewataha.com jest firma GSG Sp. z o.o. z siedzibą w Szczecinie.</p><p> Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniach w następujący sposób: </p><p>- Poprzez dobrowolnie wprowadzone w formularzach informacje </p><p>- Poprzez zapisywanie w urządzeniach końcowych pliki cookie (tzw. \"ciasteczka\"). </p><p>- Poprzez zapisywanie technicznych logów na poziomie serwera www, obsługiwanego przez www.kitewataha.com </p><p>Niniejsza Polityka jest dokumentem informacyjnym i nie zastępuje polityki bezpieczeństwa, prowadzonej przez Operatora Serwisu zgodnie z przepisami o ochronie danych osobowych. W zakresie danych, będących danymi osobowymi w świetle przepisów o ochronie danych osobowych, administratorem danych jest Operator Serwisu. </p><p>INFORMACJE W FORMULARZACH </p><p>Serwis zbiera informacje podane dobrowolnie przez użytkownika. Serwis może zapisać ponadto informacje o parametrach połączenia (oznaczenie czasu, adres IP) Dane w formularzu nie są udostępniane podmiotom trzecim inaczej, niż za zgodą użytkownika. Dane podane w formularzu mogą stanowić zbiór danych osobowych, wówczas taki zbiór jest rejestrowany przez Operatora Serwisu w rejestrze prowadzonym przez Generalnego Inspektora Ochrony Danych Osobowych. Jeśli dane w formularzu umożliwiają identyfikację osoby fizycznej, to osoba taka ma prawdo do wglądu, modyfikacji i żądania zaprzestania przetwarzania swoich danych w dowolnym momencie. Możliwe jednak, że będzie to powodowało brak dostępu do niektórych funkcji serwisu. Dane podane w formularzu są przetwarzane w celu wynikającym z funkcji konkretnego formularza, np. w celu dokonania procesu obsługi zgłoszenia serwisowego lub kontaktu handlowego. Dane podane w formularzach mogą być przekazane podmiotom technicznie realizującym niektóre usługi – w szczególności dotyczy to serwisów obsługujących płatności lub też innych podmiotów, z którymi Operator Serwisu w tym zakresie współpracuje. </p><p>INFORMACJA O PLIKACH COOKIES </p><p>Serwis korzysta z plików cookies. Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególności pliki tekstowe, które przechowywane są w urządzeniu końcowym Użytkownika Serwisu i przeznaczone są do korzystania ze stron internetowych Serwisu. Pliki tego rodzaju zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer. Podmiotem zamieszczającym na urządzeniu końcowym Użytkownika Serwisu pliki cookies oraz uzyskującym do nich dostęp jest operator Serwisu lub podmioty z nim współpracujące. Pliki cookies wykorzystywane są w następujących celach: tworzenia statystyk, które pomagają zrozumieć, w jaki sposób Użytkownicy Serwisu korzystają ze stron internetowych, co umożliwia ulepszanie ich struktury i zawartości; utrzymanie sesji Użytkownika Serwisu (po zalogowaniu), dzięki której Użytkownik nie musi na każdej podstronie Serwisu ponownie wpisywać loginu i hasła; w celu zapamiętania składu koszyka użytkownika w sklepie internetowym, określania profilu użytkownika w celu wyświetlania mu dopasowanych materiałów w sieciach reklamowych, w szczególności sieci Google. W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika. Oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej. Ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu. Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu i wykorzystywane mogą być również przez współpracujących z operatorem Serwisu reklamodawców oraz partnerów, a także operatorów płatności. Zalecamy przeczytanie polityki ochrony prywatności tych firm, aby poznać zasady korzystania z plików cookie wykorzystywane w statystykach: Polityka ochrony prywatności Google Analytics Pliki cookie mogą być wykorzystane przez sieci reklamowe, w szczególności sieć Google, do wyświetlenia reklam dopasowanych do sposobu, w jaki użytkownik korzysta z Serwisu. W tym celu mogą zachować informację o ścieżce nawigacji użytkownika lub czasie pozostawania na danej stronie. W zakresie informacji o preferencjach użytkownika gromadzonych przez sieć reklamową Google użytkownik może przeglądać i edytować informacje wynikające z plików cookies przy pomocy narzędzia: www.google.com/ads/preferences/ LOGI SERWERA </p><p>Informacje o niektórych zachowaniach użytkowników podlegają logowaniu w warstwie serwerowej. Dane te są wykorzystywane wyłącznie w celu administrowania serwisem oraz w celu zapewnienia jak najbardziej sprawnej obsługi świadczonych usług. Przeglądane zasoby identyfikowane są poprzez adresy URL. Ponadto zapisowi mogą podlegać: czas nadejścia zapytania, czas wysłania odpowiedzi, nazwę stacji klienta – identyfikacja realizowana przez protokół HTTP, informacje o błędach jakie nastąpiły przy realizacji transakcji HTTP, adres URL strony poprzednio odwiedzanej przez użytkownika (referer link) – w przypadku gdy przejście do Serwisu nastąpiło przez odnośnik, informacje o przeglądarce użytkownika, informacje o adresie IP. Dane powyższe nie są kojarzone z konkretnymi osobami przeglądającymi strony. Dane powyższe są wykorzystywane jedynie dla celów administrowania serwerem. </p><p>UDOSTĘPNIENIE I POWIERZENIE PRZETWARZANIA DANYCH </p><p>Dane podlegają udostępnieniu podmiotom zewnętrznym wyłącznie w granicach prawnie dozwolonych. Dane umożliwiające identyfikację osoby fizycznej są udostępniane wyłączenie za zgodą tej osoby. Operator może mieć obowiązek udzielania informacji zebranych przez Serwis upoważnionym organom na podstawie zgodnych z prawem żądań w zakresie wynikającym z żądania. </p><p>ZARZĄDZANIE PLIKAMI COOKIES – JAK W PRAKTYCE WYRAŻAĆ I COFAĆ ZGODĘ? </p><p>Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www.</p><p><br></p>"
+        }
+      ]
+    }
+  }
+}
