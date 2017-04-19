@@ -1038,3 +1038,204 @@ h6,
 #content1-2y H4 {
   text-align: center;
 }
+
+#menu-33 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-33 .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+}
+#menu-33 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-33 .close-icon::before,
+#menu-33 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-33 .link,
+#menu-33 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-33 .link {
+  font-size: 0.75rem;
+}
+#menu-33 .dropdown-item,
+#menu-33 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-33 .link:hover,
+#menu-33 .dropdown-item:hover,
+#menu-33 .link:focus,
+#menu-33 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-33 .link[aria-expanded="true"],
+#menu-33 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-33 .nav-dropdown-sm .link:focus,
+#menu-33 .nav-dropdown-sm .link:hover,
+#menu-33 .nav-dropdown-sm .dropdown-item:focus,
+#menu-33 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-33 .navbar,
+#menu-33 .nav-dropdown-sm,
+#menu-33 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-33 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-33 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-33 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-33 .bg-color.transparent.opened .link:hover,
+#menu-33 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-33 .link[aria-expanded="true"],
+#menu-33 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-33 .link:hover,
+#menu-33 .link:focus {
+  color: #c0a375;
+}
+#menu-33 .dropdown-item:hover::before,
+#menu-33 .dropdown-item:focus::before {
+  background: #c0a375;
+}
+#menu-33 .dropdown-item:hover,
+#menu-33 .dropdown-item:focus {
+  color: #ffffff;
+}
+@media (min-width: 768px) {
+  #menu-33 {
+    /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/
+  }
+  #menu-33 .nav-item.nav-btn {
+    left: 5vw;
+    /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */
+    position: relative;
+  }
+}
+#menu-33 .nav-dropdown .btn {
+  padding: 0.5em 0;
+  /* adjust vertical distance between flags in mobile menu with the first number */
+  background-color: rgba(0, 0, 0, 0);
+  /* removing background and border */
+  border: none;
+}
+#content1-34 H4 {
+  text-align: center;
+}
+
+#menu-35 .hide-buttons .nav-btn {
+  display: none !important;
+}
+#menu-35 .navbar-caption {
+  color: #ffffff;
+  font-size: 25px;
+}
+#menu-35 .navbar-toggler {
+  color: #ffffff;
+}
+#menu-35 .close-icon::before,
+#menu-35 .close-icon::after {
+  background-color: #ffffff;
+}
+#menu-35 .link,
+#menu-35 .dropdown-item {
+  color: #ffffff;
+  font-family: 'Montserrat', sans-serif;
+}
+#menu-35 .link {
+  font-size: 0.75rem;
+}
+#menu-35 .dropdown-item,
+#menu-35 .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#menu-35 .link:hover,
+#menu-35 .dropdown-item:hover,
+#menu-35 .link:focus,
+#menu-35 .dropdown-item:focus {
+  color: #c0a375;
+}
+#menu-35 .link[aria-expanded="true"],
+#menu-35 .dropdown-menu {
+  background: #0e0e0e;
+}
+#menu-35 .nav-dropdown-sm .link:focus,
+#menu-35 .nav-dropdown-sm .link:hover,
+#menu-35 .nav-dropdown-sm .dropdown-item:focus,
+#menu-35 .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#menu-35 .navbar,
+#menu-35 .nav-dropdown-sm,
+#menu-35 .nav-dropdown-sm .link[aria-expanded="true"],
+#menu-35 .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#menu-35 .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#menu-35 .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#menu-35 .bg-color.transparent.opened .link:hover,
+#menu-35 .bg-color.transparent.opened .link:focus {
+  color: #c0a375;
+}
+#menu-35 .link[aria-expanded="true"],
+#menu-35 .dropdown-item[aria-expanded="true"] {
+  color: #c0a375!important;
+}
+#menu-35 .link:hover,
+#menu-35 .link:focus {
+  color: #c0a375;
+}
+#menu-35 .dropdown-item:hover::before,
+#menu-35 .dropdown-item:focus::before {
+  background: #c0a375;
+}
+#menu-35 .dropdown-item:hover,
+#menu-35 .dropdown-item:focus {
+  color: #ffffff;
+}
+@media (min-width: 768px) {
+  #menu-35 {
+    /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/
+  }
+  #menu-35 .nav-item.nav-btn {
+    left: 5vw;
+    /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */
+    position: relative;
+  }
+}
+#menu-35 .nav-dropdown .btn {
+  padding: 0.5em 0;
+  /* adjust vertical distance between flags in mobile menu with the first number */
+  background-color: rgba(0, 0, 0, 0);
+  /* removing background and border */
+  border: none;
+}
+#content1-36 H4 {
+  text-align: center;
+}
+#content1-36 DIV {
+  text-align: left;
+}
+#content1-36 H2 {
+  text-align: center;
+}
+#content1-36 UL {
+  text-align: left;
+}

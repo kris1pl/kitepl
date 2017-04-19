@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.7",
-    "uniqCompNum": 107,
+    "uniqCompNum": 115,
     "versionPublish": "3.11.1",
     "mcShopcart": {
       "email": "kris1@kdk.com.pl"
@@ -620,7 +620,7 @@
             "bgColor": "#303030",
             "showMeta": true
           },
-          "title": "Sezon rozpoczyna się 01.05.2017",
+          "title": "Szkolenia prowadzimy od 01.05.2017",
           "meta": ""
         },
         {
@@ -980,18 +980,63 @@
             "showTitle": true
           },
           "title": "CZĘSTO ZADAWANE PYTANIA",
-          "title1": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseOneextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Czy są jakieś wymagania wstępne przed rozpoczęciem szkolenia ?</a>",
-          "text1": "<p>Powinieneś być zdrowy, bez fizycznych ograniczeń oraz powinieneś umieć pływać. Przed rozpoczęciem kursu jest również wymagane abyś zapoznał się z warunkami prowadzenia kursu oraz potwierdził to swoim podpisem. Dokument można pobrać w sekcji \"pobierz\" lub otrzymać przed rozpoczeciem kursu.</p>",
-          "title2": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseTwoextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseTwo\">Czy mogę zacząć szkolenie od razu, od wyższego poziomu ?</a>",
-          "text2": "<p>Nie nie możesz. Aby uczestniczyć w kursie poziom - 2 należy najpier ukończyć kurs poziom - 1. Z kolei aby uczestniczyć w kursie poziom - 3 należy ukończyć kurs poziom - 2.&nbsp;</p>",
-          "title3": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseThreeextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseThree\">Czy mogę zacząć szkolenie jeśli mam mniej niż 18 lat?</a>",
-          "text3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Jeżeli masz mniej niż 18 lat to powinieneś dostarczyć zgodę rodziców lub opiekunów którą można pobrać w zakładce \"Pobierz\", lub zgoda ta może być podpisana bezpośrtednio przed rozpoczęciem kursu. Uprawianie kitesurfingu nie wymaga ukończenia wyznaczonej granicy wiekowej lecz ze wzgledów bezpieczeństwa &nbsp;zelecane jest aby waga osoby szkolonej była powyżej 40 kg.</span></p>",
+          "title1": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseOneextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseOne\"><span class=\"sign\"></span>Czy są jakieś wymagania wstępne przed rozpoczęciem szkolenia ?</a>",
+          "text1": "<p>Powinieneś być zdrowy, bez fizycznych ograniczeń oraz powinieneś umieć pływać. Przed rozpoczęciem kursu jest również wymagane abyś zapoznał się z warunkami prowadzenia kursu oraz wypełnił i podpisał formularz zgłoszeniowy.</p>",
+          "title2": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseTwoextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseTwo\">Czy mogę zacząć szkolenie od razu, od wyższego poziomu ?</a>",
+          "text2": "<p>Aby uczestniczyć w kursie poziomu 2 należy najpier ukończyć kurs poziomu &nbsp;1. Z kolei aby uczestniczyć w kursie poziomu 3 należy ukończyć kurs poziomu 2.&nbsp;</p>",
+          "title3": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseThreeextAccordion1-r\" aria-expanded=\"false\" aria-controls=\"collapseThree\">Czy mogę zacząć szkolenie jeśli mam mniej niż 18 lat?</a>",
+          "text3": "<p><span style=\"font-size: 1rem; line-height: 1.5;\">Jeżeli masz mniej niż 18 lat to powinieneś dostarczyć zgodę rodziców lub opiekunów którą można pobrać w zakładce \"Formularz\", w stópce strony, lub zgoda ta może być podpisana bezpośrtednio przed rozpoczęciem kursu. Uprawianie kitesurfingu nie wymaga ukończenia wyznaczonej granicy wiekowej lecz ze wzgledów bezpieczeństwa &nbsp;zelecane jest aby waga osoby szkolonej była powyżej 40 kg.</span></p>",
           "title4": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseFourextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseFour\">Co powinienem zabrać ze sobą &nbsp;?</a>",
-          "text4": "<p>Jako, że szkolenia będą odbywać się poza centrum Międzyzdrojów ( około 30 min. jazdy samochodem ) to dobrze jest zabrać ze sobą:</p><p>- kurtkę przeciwdeszczową i chroniącą przed wiatrem</p>- czapkę<br>- ręcznik<br>- butelka wody i kanapki na pewno nie zaszkodzą<br>- w słoneczne dni okulary przeciwsłoneczne i krem ochronny na twarz<br><p><br></p>",
+          "text4": "<p>Większość zajęć odbywać będzie się poza centrum Międzyzdrojów ( około 30 min. jazdy samochodem ) więc dobrze jest zabrać ze sobą:</p><p>- kurtkę przeciwdeszczową i chroniącą przed wiatrem</p>- czapkę<br>- ręcznik<br>- butelka wody i kanapki na pewno nie zaszkodzą<br>- w słoneczne dni okulary przeciwsłoneczne i krem ochronny na twarz<br><p><br></p>",
           "title5": "<a role=\"button\" class=\"\" data-toggle=\"collapse\" data-parent=\"#extAccordion1-r-init\" data-core=\"\" href=\"#collapseFiveextAccordion1-r\" aria-expanded=\"true\" aria-controls=\"collapseFive\">Co będzie gdy zapłacę za kurs a z powodu warunków pogodowych zostanie on odwołany ?</a>",
           "text5": "<p>Jeżeli, z podowu warunków pogodowych lub braku wiatru kurs zostanie odwołany to otrzymasz zwrot kwoty za odwołaną część kursu.</p>",
           "title6": "<a role=\"button\" class=\"collapsed\" data-toggle=\"collapse\" data-parent=\"#accordion\" data-core=\"\" href=\"#collapseSix\" aria-expanded=\"false\" aria-controls=\"collapseSix\">This is a accordion Title 6</a>",
           "text6": "<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur in nulla ut magna vehicula libero luctus in ipsum consequat faucibus. Ut porta nulla ac dapibus convallis. Curabitur sit amet massa quam. In ut ex auctor, porta neque quis, sagittis purus. Nunc auctor gravida magna, sed efficitur tortor tristique quis.</p>"
+        },
+        {
+          "alias": "mobirise3-blocks/components",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "extFooter1",
+          "_anchor": "extFooter1-32",
+          "_params": {
+            "progress": 50,
+            "paddingTop": "0",
+            "paddingBottom": "0",
+            "parallax": false,
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/mobirise3-blocks/components/_images/img_extFooter1_bg.jpg",
+            "bgColor": "#262626",
+            "bgColorRadio": true,
+            "bgVideo": {
+              "url": "https://www.youtube.com/watch?v=7LDRrdD-Qww"
+            },
+            "bgVideoRadio": false,
+            "overlay": true,
+            "overlayOpacity": 0.4,
+            "overlayColor": "#000",
+            "showLogo": false,
+            "showTitle": false
+          },
+          "media": {
+            "image": {
+              "active": true,
+              "width": 1400,
+              "src": "@PROJECT_PATH@/assets/images/wataha_logo_na_www-1400x356.png",
+              "link": "",
+              "alt": "",
+              "title": "",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-header2",
+              "link": "",
+              "size": 0
+            }
+          },
+          "title": "MOBIRISE",
+          "list": "<ul><li>/<a href=\"privacy.html\" target=\"_blank\">Polityka prywatności</a><a href=\"\"></a></li><li><a href=\"regulamin.html\" target=\"_blank\">Regulamin</a><a href=\"\"></a></li><li><a href=\"formularz.html\" target=\"_blank\">Formularz</a></li><li>Googl</li></ul>"
         }
       ]
     },
@@ -2082,6 +2127,279 @@
             "bgColor": "#fff"
           },
           "text": "<h4>Polityka prywatności </h4><p>INFORMACJE OGÓLNE </p><p>Właścicielem serwisu www.kitewataha.com jest firma GSG Sp. z o.o. z siedzibą w Szczecinie.</p><p> Serwis realizuje funkcje pozyskiwania informacji o użytkownikach i ich zachowaniach w następujący sposób: </p><p>- Poprzez dobrowolnie wprowadzone w formularzach informacje </p><p>- Poprzez zapisywanie w urządzeniach końcowych pliki cookie (tzw. \"ciasteczka\"). </p><p>- Poprzez zapisywanie technicznych logów na poziomie serwera www, obsługiwanego przez www.kitewataha.com </p><p>Niniejsza Polityka jest dokumentem informacyjnym i nie zastępuje polityki bezpieczeństwa, prowadzonej przez Operatora Serwisu zgodnie z przepisami o ochronie danych osobowych. W zakresie danych, będących danymi osobowymi w świetle przepisów o ochronie danych osobowych, administratorem danych jest Operator Serwisu. </p><p>INFORMACJE W FORMULARZACH </p><p>Serwis zbiera informacje podane dobrowolnie przez użytkownika. Serwis może zapisać ponadto informacje o parametrach połączenia (oznaczenie czasu, adres IP) Dane w formularzu nie są udostępniane podmiotom trzecim inaczej, niż za zgodą użytkownika. Dane podane w formularzu mogą stanowić zbiór danych osobowych, wówczas taki zbiór jest rejestrowany przez Operatora Serwisu w rejestrze prowadzonym przez Generalnego Inspektora Ochrony Danych Osobowych. Jeśli dane w formularzu umożliwiają identyfikację osoby fizycznej, to osoba taka ma prawdo do wglądu, modyfikacji i żądania zaprzestania przetwarzania swoich danych w dowolnym momencie. Możliwe jednak, że będzie to powodowało brak dostępu do niektórych funkcji serwisu. Dane podane w formularzu są przetwarzane w celu wynikającym z funkcji konkretnego formularza, np. w celu dokonania procesu obsługi zgłoszenia serwisowego lub kontaktu handlowego. Dane podane w formularzach mogą być przekazane podmiotom technicznie realizującym niektóre usługi – w szczególności dotyczy to serwisów obsługujących płatności lub też innych podmiotów, z którymi Operator Serwisu w tym zakresie współpracuje. </p><p>INFORMACJA O PLIKACH COOKIES </p><p>Serwis korzysta z plików cookies. Pliki cookies (tzw. „ciasteczka”) stanowią dane informatyczne, w szczególności pliki tekstowe, które przechowywane są w urządzeniu końcowym Użytkownika Serwisu i przeznaczone są do korzystania ze stron internetowych Serwisu. Pliki tego rodzaju zazwyczaj zawierają nazwę strony internetowej, z której pochodzą, czas przechowywania ich na urządzeniu końcowym oraz unikalny numer. Podmiotem zamieszczającym na urządzeniu końcowym Użytkownika Serwisu pliki cookies oraz uzyskującym do nich dostęp jest operator Serwisu lub podmioty z nim współpracujące. Pliki cookies wykorzystywane są w następujących celach: tworzenia statystyk, które pomagają zrozumieć, w jaki sposób Użytkownicy Serwisu korzystają ze stron internetowych, co umożliwia ulepszanie ich struktury i zawartości; utrzymanie sesji Użytkownika Serwisu (po zalogowaniu), dzięki której Użytkownik nie musi na każdej podstronie Serwisu ponownie wpisywać loginu i hasła; w celu zapamiętania składu koszyka użytkownika w sklepie internetowym, określania profilu użytkownika w celu wyświetlania mu dopasowanych materiałów w sieciach reklamowych, w szczególności sieci Google. W ramach Serwisu stosowane są dwa zasadnicze rodzaje plików cookies: „sesyjne” (session cookies) oraz „stałe” (persistent cookies). Cookies „sesyjne” są plikami tymczasowymi, które przechowywane są w urządzeniu końcowym Użytkownika do czasu wylogowania, opuszczenia strony internetowej lub wyłączenia oprogramowania (przeglądarki internetowej). „Stałe” pliki cookies przechowywane są w urządzeniu końcowym Użytkownika przez czas określony w parametrach plików cookies lub do czasu ich usunięcia przez Użytkownika. Oprogramowanie do przeglądania stron internetowych (przeglądarka internetowa) zazwyczaj domyślnie dopuszcza przechowywanie plików cookies w urządzeniu końcowym Użytkownika. Użytkownicy Serwisu mogą dokonać zmiany ustawień w tym zakresie. Przeglądarka internetowa umożliwia usunięcie plików cookies. Możliwe jest także automatyczne blokowanie plików cookies Szczegółowe informacje na ten temat zawiera pomoc lub dokumentacja przeglądarki internetowej. Ograniczenia stosowania plików cookies mogą wpłynąć na niektóre funkcjonalności dostępne na stronach internetowych Serwisu. Pliki cookies zamieszczane w urządzeniu końcowym Użytkownika Serwisu i wykorzystywane mogą być również przez współpracujących z operatorem Serwisu reklamodawców oraz partnerów, a także operatorów płatności. Zalecamy przeczytanie polityki ochrony prywatności tych firm, aby poznać zasady korzystania z plików cookie wykorzystywane w statystykach: Polityka ochrony prywatności Google Analytics Pliki cookie mogą być wykorzystane przez sieci reklamowe, w szczególności sieć Google, do wyświetlenia reklam dopasowanych do sposobu, w jaki użytkownik korzysta z Serwisu. W tym celu mogą zachować informację o ścieżce nawigacji użytkownika lub czasie pozostawania na danej stronie. W zakresie informacji o preferencjach użytkownika gromadzonych przez sieć reklamową Google użytkownik może przeglądać i edytować informacje wynikające z plików cookies przy pomocy narzędzia: www.google.com/ads/preferences/ LOGI SERWERA </p><p>Informacje o niektórych zachowaniach użytkowników podlegają logowaniu w warstwie serwerowej. Dane te są wykorzystywane wyłącznie w celu administrowania serwisem oraz w celu zapewnienia jak najbardziej sprawnej obsługi świadczonych usług. Przeglądane zasoby identyfikowane są poprzez adresy URL. Ponadto zapisowi mogą podlegać: czas nadejścia zapytania, czas wysłania odpowiedzi, nazwę stacji klienta – identyfikacja realizowana przez protokół HTTP, informacje o błędach jakie nastąpiły przy realizacji transakcji HTTP, adres URL strony poprzednio odwiedzanej przez użytkownika (referer link) – w przypadku gdy przejście do Serwisu nastąpiło przez odnośnik, informacje o przeglądarce użytkownika, informacje o adresie IP. Dane powyższe nie są kojarzone z konkretnymi osobami przeglądającymi strony. Dane powyższe są wykorzystywane jedynie dla celów administrowania serwerem. </p><p>UDOSTĘPNIENIE I POWIERZENIE PRZETWARZANIA DANYCH </p><p>Dane podlegają udostępnieniu podmiotom zewnętrznym wyłącznie w granicach prawnie dozwolonych. Dane umożliwiające identyfikację osoby fizycznej są udostępniane wyłączenie za zgodą tej osoby. Operator może mieć obowiązek udzielania informacji zebranych przez Serwis upoważnionym organom na podstawie zgodnych z prawem żądań w zakresie wynikającym z żądania. </p><p>ZARZĄDZANIE PLIKAMI COOKIES – JAK W PRAKTYCE WYRAŻAĆ I COFAĆ ZGODĘ? </p><p>Jeśli użytkownik nie chce otrzymywać plików cookies, może zmienić ustawienia przeglądarki. Zastrzegamy, że wyłączenie obsługi plików cookies niezbędnych dla procesów uwierzytelniania, bezpieczeństwa, utrzymania preferencji użytkownika może utrudnić, a w skrajnych przypadkach może uniemożliwić korzystanie ze stron www.</p><p><br></p>"
+        }
+      ]
+    },
+    "regulamin.html": {
+      "settings": {
+        "title": "Kursy kitesurfingu w Międzyzdrojach",
+        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing lessons in Międzyzdroje\">\n<meta property=\"og:url\" content=\"http://www.letsgokitesurfing.eu\">\n<meta property=\"og:image\" content=\"http://www.letsgokitesurfing.eu/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media (min-width:768px){\n /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/\n  .nav-item.nav-btn {\n    left: 5vw; /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */\n    position: relative;\n}\n}\n.nav-dropdown .btn {\n    padding: 0.5em 0; /* adjust vertical distance between flags in mobile menu with the first number */\n    background-color:rgba(0,0,0,0);/* removing background and border */\n    border:none;\n}",
+          "_anchor": "menu-33",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wataha-logo-na-www-502x128.png",
+              "height": 128,
+              "alt": "KiteWataha",
+              "link": "#top",
+              "title": "KiteWataha",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">.com</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures3-7\">KURSY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box2-t\">OFERTA SPECJALNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-2n\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-c\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-r\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.letsgokitesurfing.eu\">POBIERZ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            }
+          },
+          "_anchor": "content1-34",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4>Regulamin szkoleń</h4><div><br></div><div>Słowniczek:</div><div>Organizator – organizator szkolenia kitesurfingowego – GSG Sp. z o.o., Al. Bohaterów Warszawy 11b, 70-370 Szczecin  oraz osoby świadczące pracę lub usługi na jej rzecz na podstawie umów cywilnoprawnych.</div><div>Uczestnik – osoba biorąca czynny udział w szkoleniach; obowiązki Uczestnika spoczywają także na rodzicach i opiekunach prawnych osób niepełnoletnich.</div><div>Wypadek Uczestnika – nagłe zdarzenie, wywołane czynnikiem zewnętrznym, mające związek ze prowadzonym przez Krzysztofa Głowackiego szkoleniem kitesurfingu powodujące uraz lub śmierć.</div><div>Instruktor – osoba prowadząca kurs i szkolenie.</div><div><br></div><div>§ 1.  Postanowienia ogólne</div><div><br></div><div>Bezwzględnym warunkiem przystąpienia do szkolenia kitesurfingowego jest:</div><div>wypełnienie przez Uczestnika Karty Uczestnika</div><div>podpisanie przez Uczestnika oświadczenia, po uprzednim zapoznaniu się z jego treścią oraz treścią niniejszego regulaminu</div><div>Uczestnictwo osób niepełnoletnich w kursach i szkoleniach uzależnione jest od zaakceptowania warunków niniejszego regulaminu przez rodziców lub opiekunów prawnych, a którzy zobowiązani są do potwierdzenia zgody przez podpisanie właściwego regulaminu oraz oświadczenia, o których mowa w §1 pkt. 1 niniejszego regulaminu</div><div>na okres trwania szkolenia na każdym Uczestniku spoczywa obowiązek ubezpieczenia się od odpowiedzialności cywilnej oraz następstw wszelkich nieszczęśliwych wypadków, kontuzji i ich następstw powstałych podczas zajęć na wodzie i na lądzie.</div><div>Regulamin ma zastosowanie do wszystkich szkoleń prowadzonych przez Organizatora, niezależnie od stopnia zaawansowania Uczestników. W razie rażącego naruszenia przez Uczestnika niniejszego regulaminu, Organizator ma prawo przerwać szkolenie w trybie natychmiastowym. Wszelkie koszty wynikające z rozwiązania umowy z tego tytułu zawartej pomiędzy Uczestnikiem a Organizatorem obciążają Uczestnika.</div><div>Sprawy nie są objęte niniejszym Regulaminem są regulowane bezpośrednio przez Organizatora, który zastrzega sobie prawo do wprowadzenia zmian w niniejszym Regulaminie.</div><div><br></div><div>§ 2.  Obowiązki Uczestnika przed przystąpieniem do kursu i stan zdrowia Uczestnika</div><div><br></div><div>Uczestnik oświadcza, że stan zdrowia fizycznego i psychicznego pozwala mu na uczestnictwo w szkoleniu kitesurfingu oraz każdych innych zajęć organizowanych i prowadzonych przez Organizatora, nie choruje na żadne przewlekłe choroby ani choroby realnie zagrażające życiu. Osoby z problemami zdrowotnymi, przed przystąpieniem do zajęć powinny skonsultować się z lekarzem i mogą przystąpić do szkolenia tylko po otrzymaniu zgody lekarza. Organizator nie odpowiada za kontuzje ani nieszczęśliwe wypadki Uczestnika powstałe w trakcie zajęć wynikające z jego złego stanu zdrowia fizycznego i psychicznego.</div><div>Przed przystąpieniem do szkolenia Uczestnik zobowiązany jest przekazać Instruktorowi szczegółowe i prawdziwe informacje dot. umiejętności pływania na kitesurfingu, a także stanu zdrowia, sprawności fizycznej i wszelkich dolegliwości mogących mieć wpływ na szkolenie wskazane w § 2 pkt. 1 niniejszego regulaminu, w szczególności zaś rodzice i opiekunowie nieletnich Uczestników są zobowiązani się do podania bieżących informacji o stanie zdrowia oraz o jego predyspozycjach przy wykonywaniu poszczególnych ćwiczeń zleconych przez Instruktora.</div><div>Organizator nie ponosi odpowiedzialności za naruszenie zdrowia i życia wynikające z uczestnictwa w szkoleniu, a organizowanym zgodnie z wszelkimi zasadami sportowymi związanymi z ryzykiem sportowym.</div><div>Zabrania się przystępowania do wykonywania zajęć zarówno w wodzie, jak i na lądzie przez Uczestnika znajdującego w stanie po spożyciu alkoholu lub innego podobnie działającego środka (środków odurzających) oraz przyjmowania tego rodzaju środków podczas szkolenia. Za zniszczenie mienia, kontuzje, naruszenie zdrowia i życia własnego lub osób trzecich spowodowane przez Uczestnika będącego w stanie nietrzeźwym lub po użyciu narkotyków, ale również wynikające z niewłaściwego użytkowania sprzętu, niewłaściwym wykonaniem przez kursanta zleconych przez Instruktora ćwiczeń oraz nie przestrzegania przepisów obowiązujących na akwenie odpowiada wyłącznie Uczestnik.</div><div><br></div><div>§ 3.  Obecność Uczestnika na zajęciach</div><div><br></div><div>Uczestnik zobowiązany jest do:</div><div>punktualnego stawiania się na zajęcia w ustalonym przez Organizatora miejscu,</div><div>powiadomienia Organizatora o ew. absencji na zajęciach najpóźniej na 1h przed rozpoczęciem zajęć. W sytuacji, gdy Uczestnik spóźni się na opłaconą lekcję, nie ma możliwości przedłużania straconego czasu – zajęcia zostaną przeprowadzone do godziny wcześniej zarezerwowanej. W przypadku spóźnienia Instruktora, Uczestnikowi przysługuje możliwość wykorzystania straconego czasu w innym, ustalonym wspólnie z Organizatorem terminie,</div><div>w przypadku niedyspozycji i ograniczeń uniemożliwiających kontynuowanie zajęć na wodzie (niedyspozycja lub ograniczenie wykonywania zajęć powstały w trakcie prowadzonych zajęć) Uczestnik zobowiązany jest do niezwłocznego poinformowania o tym Instruktora, a następnie niezwłocznie przerwać wykonywanie ćwiczenia w trakcie zajęć. Po zejściu z zajęć Uczestnik powinien również niezwłocznie powiadomić Organizatora o zaistniałej sytuacji.</div><div><br></div><div>§ 4.  Obowiązki Uczestnika w trakcie zajęć</div><div><br></div><div>Uczestnik zobowiązany jest do:</div><div>każdorazowego sprawdzenia, czy powierzony mu sprzęt dostosowany jest do jego możliwości fizycznych oraz czy jego stan techniczny jest prawidłowy; z chwilą otrzymania przez Uczestnika sprzętu przeznaczonego do kursu i szkolenia ponosi on odpowiedzialność materialną za jego zagubienie lub sprzeczne z jego przeznaczeniem wykorzystywanie,</div><div>każdorazowego powiadomienia Instruktora lub Organizatora o dostrzeżonych wadach sprzętu; w przypadku nie zgłoszenia uszkodzenia sprzętu lub jego elementów Instruktorowi lub Organizatorowi i przystąpienia do zajęć odbywających się zarówno na wodzie, jak i na lądzie Organizator nie ponosi odpowiedzialności za skutki powstałe podczas użytkowania wadliwego sprzętu,</div><div>każdorazowego powiadomienia Instruktora o wejściu do wody oraz powrocie na ląd; w razie zaniechanie tego obowiązku Uczestnik ponosi koszty nieuzasadnionej akcji poszukiwawczej lub ratowniczej,</div><div>wykonywania w trakcie zajęć wyłącznie poleceń zleconych przez Instruktora prowadzącego dane zajęcia; Uczestnik może również przed rozpoczęciem wykonywania ćwiczeń demonstrowanych przez Instruktora odmówić ich wykonywania. Instruktor nie ponosi odpowiedzialności, z tytułu szkody na osobie w przypadku nie wykonania przez Uczestnika ćwiczenia zgodnie z jego wskazówkami,</div><div>dbania o sprzęt przydzielony Uczestnikowi do zajęć na wodzie oraz na lądzie,</div><div>natychmiastowego powiadomienia Instruktora lub Organizatora o uszkodzeniu sprzętu używanego podczas zajęć i innego sprzętu należącego Organizatora;</div><div>wykorzystywania powierzonego sprzętu wyłącznie zgodnie z jego przeznaczeniem oraz wyłącznie w trakcie prowadzonych zająć; każdorazowe wykorzystywanie sprzętu należącego do Organizatora poza prowadzonymi zajęciami wymaga uzgodnienia z Instruktorem lub Organizatorem,</div><div>stosowania się do zaleceń Instruktora i Organizatora</div><div>uczestniczenia w zajęciach kitesurfingowych w kamizelkach asekuracyjnych i kaskach ochronnych, niezależnie od stopnia zaawansowania. Organizator nie ponosi odpowiedzialności za szkodę na osobie powstałą w wyniku nie zastosowania przez Uczestnika kamizelki asekuracyjnej oraz kasku ochronnego w trakcie szkolenia.</div><div>odłożenia sprzętu z którego korzystał Uczestnik na miejsce jego przechowywania lub wskazane przez Instruktora/Organizatora miejsce.</div><div><br></div><div>§ 5.  Bezpieczeństwo Uczestnika oraz postępowanie w razie wypadku</div><div><br></div><div>W celu zapewnienia Uczestnikowi pełnego bezpieczeństwa, zobowiązuje się on do ścisłego przestrzegania postanowień niniejszego regulaminu, w szczególności zaś zobowiązuje się on do przestrzegania wszelkich instrukcji i poleceń wydawanych przez Instruktora.</div><div>Każdy Uczestnik, który powziął wiadomość o wypadku, niezwłocznie zapewnia poszkodowanemu opiekę, w szczególności informując o tym niezwłocznie Instruktora lub Organizatora, sprowadzając fachową pomoc medyczną, a w miarę możliwości udzielając poszkodowanemu pierwszej pomocy.</div><div>Na Uczestniku, w razie wystąpienia wypadku ciąży obowiązek podania szczegółowego opisu zdarzenia, podjętych przez niego czynności, podania swoich danych osobowych oraz podpisania protokołu zdarzenia sporządzonego przez Organizatora niezwłocznie po zdarzeniu.</div><div> § 6.  Wykorzystanie wizerunku</div><div>Uczestnik wyraża zgodę na:</div><div>wykonywanie mu zdjęć i filmów podczas szkolenia</div><div>nieodwołane i nieodpłatne wielokrotne wykorzystywanie uzyskanych w ten sposób fotografii i filmów</div><div>Zgoda obejmuje wykorzystanie, utrwalanie, obróbkę i powielanie uzyskanych w ten sposób zdjęć i filmów za pośrednictwem dowolnego medium, w szczególności ich publikację na stronie internetowej kitewataha.com, letsgokitesurfing.eu, facebook.com, flickr.com, youtube.com, vimeo.com.</div><div><br></div><div>§ 7.  Termin, miejsca prowadzenia zajęć oraz osoba Instruktora</div><div><br></div><div>Zajęcia odbywają się w wyznaczonym przez Organizatora miejscu oraz zgodnie z ustalonym wspólnie z Uczestnikiem terminie.</div><div>Organizator zastrzega możliwość odbycia części lub wszystkich zajęć szkoleniowych w lokalizacji Wolin lub Świnoujście Karsibór.</div><div>Szkolenia odbywają się w godzinach 9-19. W szczególnych przypadkach godziny szkoleń mogą ulec zmianie.</div><div>Organizator zastrzega sobie prawo do zmiany warunków umowy (w tym terminu odbycia się szkolenia) lub odwołania szkolenia z przyczyn od Organizatora niezależnych (siła wyższa, złe warunki atmosferyczne, zagrożenie życia lub zdrowia). Niewykorzystane godziny zajęć, odbędą się w innym umówionym z Uczestnikiem terminie.</div><div>Organizator zastrzega sobie prawo do czasowej lub docelowej zmiany Instruktora prowadzącego dany kurs i szkolenie.</div><div>Uczestnik zobowiązany jest do pływania nie dalej niż 1km od miejsca wypłynięcia.</div><div>Uczestnik zobowiązany jest do zachowania, które nie może być odbierane z brzegu jako wzywanie pomocy, kiedy nie ma takiej potrzeby (np. leżenie/siedzenie na desce, machanie rękami).</div><div>Uczestnik zobowiązany jest do poznania znaków wzywania pomocy.</div><div><br></div><div><br></div><div>§ 8.  Postanowienia końcowe</div><div>Lekcje z pakietu/kursu są imienne i nie może korzystać z nich osoba trzecia.</div><div>Wszelkie reklamacje Uczestnika winny mieć formę pisemną i być zgłaszane u Instruktora lub Organizatora w czasie trwania szkolenia lub do 7 dni po jego zakończeniu. Organizator zobowiązuje się do rozpatrzenia reklamacji w ciągu 30 dni od daty jej otrzymania.</div><div>Organizator nie ponosi odpowiedzialności za skradzione lub zagubione rzeczy Uczestnika.</div><p><br></p>"
+        }
+      ]
+    },
+    "formularz.html": {
+      "settings": {
+        "title": "Kursy kitesurfingu w Międzyzdrojach",
+        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing lessons in Międzyzdroje\">\n<meta property=\"og:url\" content=\"http://www.letsgokitesurfing.eu\">\n<meta property=\"og:image\" content=\"http://www.letsgokitesurfing.eu/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_styles": {
+            ".hide-buttons .nav-btn": {
+              "display": "none !important"
+            },
+            ".navbar-caption": {
+              "color": "#ffffff",
+              "font-size": "25px"
+            },
+            ".navbar-toggler": {
+              "color": "#ffffff"
+            },
+            ".close-icon::before, .close-icon::after": {
+              "background-color": "#ffffff"
+            },
+            ".link, .dropdown-item": {
+              "color": "#ffffff",
+              "googleLink": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "font-family": "'Montserrat', sans-serif"
+            },
+            ".link": {
+              "font-size": "0.75rem"
+            },
+            ".dropdown-item, .nav-dropdown-sm .link": {
+              "font-size": "0.812rem"
+            },
+            ".link:hover, .dropdown-item:hover, .link:focus, .dropdown-item:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-menu": {
+              "background": "#0e0e0e"
+            },
+            ".nav-dropdown-sm .link:focus, .nav-dropdown-sm .link:hover, .nav-dropdown-sm .dropdown-item:focus, .nav-dropdown-sm .dropdown-item:hover": {
+              "background": "#202020!important"
+            },
+            ".navbar, .nav-dropdown-sm, .nav-dropdown-sm .link[aria-expanded=\"true\"], .nav-dropdown-sm .dropdown-menu": {
+              "background": "#282828"
+            },
+            ".bg-color.transparent .link": {
+              "color": "#ffffff",
+              "transition": "none"
+            },
+            ".bg-color.transparent.opened .link": {
+              "transition": "color .2s ease-in-out"
+            },
+            ".bg-color.transparent.opened .link:hover, .bg-color.transparent.opened .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".link[aria-expanded=\"true\"], .dropdown-item[aria-expanded=\"true\"]": {
+              "color": "#c0a375!important"
+            },
+            ".link:hover, .link:focus": {
+              "color": "@primaryColor"
+            },
+            ".dropdown-item:hover::before, .dropdown-item:focus::before": {
+              "background": "@primaryColor"
+            },
+            ".dropdown-item:hover, .dropdown-item:focus": {
+              "color": "#ffffff"
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "menu",
+          "_customCSS": "@media (min-width:768px){\n /*this number tells the styling to apply only tablet and desktop modes - when the menu collapses the flags will display centered below nav links*/\n  .nav-item.nav-btn {\n    left: 5vw; /* adjust this number to get desired position without the buttons fall off viewport when narrowing it */\n    position: relative;\n}\n}\n.nav-dropdown .btn {\n    padding: 0.5em 0; /* adjust vertical distance between flags in mobile menu with the first number */\n    background-color:rgba(0,0,0,0);/* removing background and border */\n    border:none;\n}",
+          "_anchor": "menu-35",
+          "_params": {
+            "bgColor": "#282828",
+            "fontSize": 0.75,
+            "fontName": {
+              "name": "Montserrat",
+              "url": "https://fonts.googleapis.com/css?family=Montserrat:400,700",
+              "css": "'Montserrat', sans-serif"
+            },
+            "fontColor": "#ffffff",
+            "fontHoverColor": "@primaryColor",
+            "transparent": true,
+            "sticky": true,
+            "logo": true,
+            "showBrand": true,
+            "collapsed": true,
+            "hideButtons": false
+          },
+          "logo": {
+            "image": {
+              "active": true,
+              "src": "@PROJECT_PATH@/assets/images/wataha-logo-na-www-502x128.png",
+              "height": 128,
+              "alt": "KiteWataha",
+              "link": "#top",
+              "title": "KiteWataha",
+              "linkInNewWindow": false
+            },
+            "iconFont": {
+              "class": "mbr-iconfont mbr-iconfont-menu",
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"navbar-caption\" data-app-btn=\"true\" data-app-selector=\".navbar-caption\" href=\"#top\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\">.com</a>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extFeatures3-7\">KURSY</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extMsg-box2-t\">OFERTA SPECJALNA</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#pricing-table1-2n\">CENNIK</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extForm3-c\">KONTAKT</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"index.html#extAccordion1-r\">FAQ</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://www.letsgokitesurfing.eu\">POBIERZ</a></li>"
+        },
+        {
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "content1",
+          "_styles": {
+            "H4": {
+              "text-align": "center"
+            },
+            "DIV": {
+              "text-align": "left"
+            },
+            "H2": {
+              "text-align": "center"
+            },
+            "UL": {
+              "text-align": "left"
+            }
+          },
+          "_anchor": "content1-36",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": 1,
+            "bgColor": "#fff"
+          },
+          "text": "<h4><br></h4><h2>Karta uczestnika szkolenia</h2><div><br></div><ul><li>Imię:....................................................................................................................................................................</li><li>Nazwisko:......................................................................................................................................................</li><li>Data urodzenia:........................................................................................................................................</li><li>Tel........................................................................................................................................................................</li><li>Email..................................................................................................................................................................</li></ul><p><br></p><p><br></p><h4>Kontakt w razie wypadku</h4><ul><li>Imię:....................................................................................................................................................................</li><li>Nazwisko:......................................................................................................................................................</li><li>Tel........................................................................................................................................................................</li></ul><div><br></div><div><br></div><h4>Oświadczenie uczestnika:</h4><div>Niniejszym wyrażam chęć przystąpienia do szkolenia kitesurfingu organizowanego przez instruktora IKO – Krzysztofa Głowackiego.</div><div>Rozumiem i przyjmuje do wiadomości, że kitesurfing wiąże się z pewnym ryzykiem, które ani pełna ostrożność, rozwaga czy doświadczenie i specjalistyczna wiedza nie mogą w pełni wyeliminować. Wyraźnie i dobrowolnie przyjmuję ryzyko urazu lub nawet śmierci w związku z uprawianiem ww. sportu spowodowane lub nie poprzez zaniedbanie osób trzecich.</div><div>Oświadczam, że będę korzystał z powierzonego mi sprzętu w sposób rozsądny i bezpieczny, tak aby nie zagrażać życiu i zdrowiu innych lub własności osób trzecich.</div><div>Oświadczam, że potrafię pływać wpław.</div><div>&nbsp;Oświadczam, że nie jestem i nie będę podczas żadnego szkolenia pod wpływem alkoholu lub innych substancji odurzających a nadto nie będę spożywał alkoholu lub innych substancji odurzających podczas trwania szkolenia.</div><div>Oświadczam, że jestem w dobrej kondycji zdrowotnej, nie mam medycznych przeciwwskazań do uprawiania kitesurfingu. Oświadczam, że  nie jestem w ciąży. Oświadczam, że nie mam problemów psychicznych które mogą wpływać na ocenę niebezpieczeństwa i przyswajanie informacji przekazywanych podczas szkolenia.</div><div>Oświadczam, że mam co najmniej 18 lat lub jako rodzic, lub prawny opiekun odstępuję od jakichkolwiek roszczeń które mogą dotyczyć mnie lub mojego dziecka/podopiecznego a wynikłych w skutek urazu które moje dziecko/podopieczny może ponieść podczas szkolenia.</div><div>&nbsp;Przyjmuję do wiadomości, że w ramach szkolenia nie jest zapewnione ubezpieczenie Następstw Nieszczęśliwych Wypadków (NNW). Rekomenduję wykupienie takiego ubezpieczenia we własnym zakresie.</div><div>Wyrażam zgodę na przetwarzanie danych osobowych zgodnie z przepisami ustawy z dnia 29 sierpnia 1997 r. o ochronie danych osobowych (Dz.U. z 2002 r. nr 101, poz 926 z późn. zm.).</div><div>Przeczytałem, zrozumiałem i w pełni akceptuję „Regulamin szkoleń”.</div><div>Niniejsze oświadczenie podpisuję z własnej i nieprzymuszonej woli.</div><div><br></div><div><br></div><div><br></div><div>……………………………………………………………………………………………………………………………………………………………….</div><div>Czytelnie Imię, Nazwisko, Podpis, Data</div><p><br></p>"
         }
       ]
     }
