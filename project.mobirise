@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "kitePl",
-    "currentPage": "formularz.html",
+    "currentPage": "index.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise 3",
@@ -389,7 +389,7 @@
           },
           "title3": "Miejscówki szkoleniowe",
           "subtitle3": "",
-          "caption3": "Szkolenia odbywają się głównie na płytkich wodach Zalewu Szczecińskiego.<br>Zapewniamy sprzęt zabezpieczający i asekuracyjny.<br>Zapewniamy transport pomiędzy Międzyzdrojami a mijescówkami szkoleniowymi (dotyczy miejscowości Wolin oraz Świnoujście Karsibór).<br>Sezon szkoleniowy trwa od początku maja do końca października.<br>",
+          "caption3": "Szkolenia odbywają się głównie na płytkich wodach Zalewu Szczecińskiego.<br>Zapewniamy sprzęt zabezpieczający i asekuracyjny.<br>Po wcześniejszym uzgodnieniu możemy zapewnić transport pomiędzy Międzyzdrojami a mijescówkami szkoleniowymi (dotyczy miejscowości Wolin oraz Świnoujście Karsibór).<br>Sezon szkoleniowy trwa od początku maja do końca października.<br>",
           "media3_1": {
             "iconFont": {
               "active": true,
@@ -1263,7 +1263,7 @@
           "subtitle": "then kitesurfing is a sport that will provide all of that to you. If you are in Międzyzdroje or planning to come here, it may just be a perfect time to start your great kitesurfing adventure.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x4008.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x4000.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1322,7 +1322,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/iko-card-600x4009.jpg",
+              "src": "@PROJECT_PATH@/assets/images/iko-card-600x4001.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
