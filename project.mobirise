@@ -38,8 +38,8 @@
       "settings": {
         "main": true,
         "title": "Kitesurfing - kursy w Międzyzdrojach",
-        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
-        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "meta_descr": "Kursy kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta name=\"Keywords\" content=\"kitesurfing, kite, kitesurfing międzyzdroje, kite miedzyzdroje, kitesurfing szczecin, kite szczecin, kite świnoujście, kitesurfing świnoujście\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -1240,7 +1240,7 @@
           "subtitle": "then kitesurfing is a sport that will provide all of that to you. If you are in Międzyzdroje or planning to come here, it may just be a perfect time to start your great kitesurfing adventure.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x40012.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x4004.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1299,7 +1299,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/iko-card-600x40013.jpg",
+              "src": "@PROJECT_PATH@/assets/images/iko-card-600x4005.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1978,8 +1978,8 @@
     "privacy.html": {
       "settings": {
         "title": "Kitesurfing - kursy w Międzyzdrojach",
-        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
-        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "meta_descr": "Kursy kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta name=\"Keywords\" content=\"kitesurfing, kite, kitesurfing międzyzdroje, kite miedzyzdroje, kitesurfing szczecin, kite szczecin, kite świnoujście, kitesurfing świnoujście\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2110,8 +2110,8 @@
     "regulamin.html": {
       "settings": {
         "title": "Kitesurfing - kursy w Międzyzdrojach",
-        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
-        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "meta_descr": "Kursy kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta name=\"Keywords\" content=\"kitesurfing, kite, kitesurfing międzyzdroje, kite miedzyzdroje, kitesurfing szczecin, kite szczecin, kite świnoujście, kitesurfing świnoujście\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
         "footer_custom": "",
         "html_before": ""
       },
@@ -2242,8 +2242,8 @@
     "formularz.html": {
       "settings": {
         "title": "Kitesurfing - kursy w Międzyzdrojach",
-        "meta_descr": "Instruktor kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
-        "header_custom": "<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">",
+        "meta_descr": "Kursy kitesurfingu w Miedzyzdrojach. System szkolenia Międzynarodowej  Organizacji Kitesurfingu - IKO.",
+        "header_custom": "<meta name=\"Keywords\" content=\"kitesurfing, kite, kitesurfing międzyzdroje, kite miedzyzdroje, kitesurfing szczecin, kite szczecin, kite świnoujście, kitesurfing świnoujście\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Kitesurfing - szkolenia w Międzyzdrojach\">\n<meta property=\"og:url\" content=\"http://www.kitewataha.com\">\n<meta property=\"og:image\" content=\"http://www.kitewataha.com/images/LetsGoKitesurfing.jpg\">\n<meta property=\"business:contact_data:locality\" content=\"Międzyzdroje\">\n<meta property=\"business:contact_data:region\" content=\"Szczecin\">\n<meta property=\"business:contact_data:postal_code\" content=\"72-500\">\n<meta property=\"business:contact_data:country_name\" content=\"Poland\">\n",
         "footer_custom": "",
         "html_before": ""
       },
