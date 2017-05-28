@@ -168,7 +168,7 @@
                 "overlayOpacity": "0.3",
                 "contentAlign": "right",
                 "showTitle": true,
-                "title": "<br>Kursy kitesurfingu<br>w Międzyzdrojach",
+                "title": "<br>Kitesurfing - kursy<br>w Międzyzdrojach",
                 "showText": false,
                 "text": "Choose from the large selection of latest pre-made blocks - intros with forms, counters, countdowns, accordions, tabs, iconboxes, progress bars, testimonials sliders and more.",
                 "showButtons": true,
@@ -1240,7 +1240,7 @@
           "subtitle": "then kitesurfing is a sport that will provide all of that to you. If you are in Międzyzdroje or planning to come here, it may just be a perfect time to start your great kitesurfing adventure.",
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x4004.jpg",
+              "src": "@PROJECT_PATH@/assets/images/kitesurfing-jump-600x4008.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -1299,7 +1299,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/iko-card-600x4005.jpg",
+              "src": "@PROJECT_PATH@/assets/images/iko-card-600x4009.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
